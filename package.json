@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "fire": "npx nightwatch ./test_fire.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
