@@ -1,0 +1,19 @@
+{
+  "name": "bbb_nw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nightwatch": "^2.0.7"
+  },
+  "devDependencies": {
+    "chromedriver": "^98.0.1",
+    "geckodriver": "^3.0.1",
+    "selenium-server": "^3.141.59"
+  }
+}

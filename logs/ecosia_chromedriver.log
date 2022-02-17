@@ -1,0 +1,26 @@
+Starting ChromeDriver 98.0.4758.102 (273bf7ac8c909cde36982d27f66f3c70846a3718-refs/branch-heads/4758@{#1151}) on port 9515
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1645107927.776][INFO]: [9f0ca5ff1e2b9aa711d2ddd4768b4511] COMMAND InitSession {
+   "capabilities": {
+      "alwaysMatch": {
+         "browserName": "chrome",
+         "goog:chromeOptions": {
+            "args": [  ],
+            "w3c": true
+         }
+      }
+   },
+   "desiredCapabilities": {
+      "browserName": "chrome",
+      "goog:chromeOptions": {
+         "args": [  ],
+         "w3c": true
+      },
+      "name": "Ecosia.org Demo"
+   }
+}
+[1645107927.777][INFO]: [9f0ca5ff1e2b9aa711d2ddd4768b4511] RESPONSE InitSession ERROR unknown error: cannot find Chrome binary
+[1645107927.777][DEBUG]: Log type 'driver' lost 0 entries on destruction
+[1645107927.777][DEBUG]: Log type 'browser' lost 0 entries on destruction
